@@ -1,0 +1,9 @@
+name: FunStuff
+version: '${project.version}'
+main: Main.Main
+api-version: 1.19
+authors: [ PassiHD ]
+
+commands:
+  nuke:
+    aliases: [gnuke]

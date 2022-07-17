@@ -1,0 +1,21 @@
+## No Permission/Only Player
+
+# The Message a Player without the perms will receive.
+no_perm: '&c&lYou do not have the Permission to execute this Command!'
+
+## Nuke Variables
+
+# TNT Spawn Delay in Seconds
+tnt_spawn_delay: 3
+
+# TNT how far above Player spawn
+tnt_spawn_yaboveplayer: 3
+
+# TNT Fusing Time in seconds
+tnt_fusingtime: 1
+
+## Messages
+# Color Coding Messages can be achieved with "&"
+
+#Nuke Message
+nuke_msg: '&4&lNuking started'
