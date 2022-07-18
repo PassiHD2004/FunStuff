@@ -19,3 +19,18 @@ tnt_fusingtime: 1
 
 #Nuke Message
 nuke_msg: '&4&lNuking started'
+
+# Feed filled Message
+feed_filled: '&aI have conquered World Hunger!'
+
+# Feed already full Message
+feed_full: '&bI have already conquered World Hunger!'
+
+# Health filled
+heal_filled: "&a&lYou are full Health now :D"
+
+#Health full
+heal_full: "&3&lHealth is already full"
+
+## TNT Arrow Config
+cluster_delay: 5

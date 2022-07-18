@@ -7,3 +7,7 @@ authors: [ PassiHD ]
 commands:
   nuke:
     aliases: [gnuke]
+  feed:
+    aliases: [gfeed]
+  heal:
+    aliases: [gheal]

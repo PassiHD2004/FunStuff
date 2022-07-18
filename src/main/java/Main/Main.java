@@ -10,7 +10,12 @@ public class Main extends JavaPlugin {
     @Override
     public void onEnable() {
         new Nuke(this);
+        new Feed(this);
+        new Heal(this);
         saveDefaultConfig();
+
+        instance = this;
+        getServer().getPluginManager().registerEvents(new TNTArrow(), this);
     }
 
 }
